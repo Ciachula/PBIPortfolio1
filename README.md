@@ -1,4 +1,4 @@
-# PowerBI - Videpoint competition 
+# PowerBI - Videopoint competition 
 ## Business Task
 Convert data into interesting report/dashboard. 
 ## Dataset
