@@ -1,9 +1,9 @@
 # PowerBI - Videopoint competition 
 ## Business Task
-Convert data into interesting report/dashboard. 
+- Convert data into interesting report/dashboard. 
 ## Dataset
-Data contained in the excel file provided by the competition organizer (Videopoint).
-It presents the import of Poland in 2015 and 2017 to countries like Germany, Spain, France.
+- Data contained in the excel file provided by the competition organizer (Videopoint).
+- It presents the import of Poland in 2015 and 2017 to countries like Germany, Spain, France.
 ## Tools
 - Excel
 - PowerBI
