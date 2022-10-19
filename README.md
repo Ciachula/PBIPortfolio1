@@ -8,16 +8,23 @@ It presents the import of Poland in 2015 and 2017 to countries like Germany, Spa
 - Excel
 - PowerBI
 ## Dashboard
-![PBI_1](https://user-images.githubusercontent.com/31890259/196622297-49b02698-60bb-4445-b885-6cd3ef84a5c4.PNG)
+![Konkurs1](https://user-images.githubusercontent.com/31890259/196638381-b7d52659-0eec-402b-b86c-54d603f99825.png)
 <hr>
 
-![PBI_2](https://user-images.githubusercontent.com/31890259/196622324-b56c5bfe-15d0-4731-9bc1-ffdc01b7487b.PNG)
+![Konkurs2](https://user-images.githubusercontent.com/31890259/196638429-67447863-6b0f-46e8-a2c4-8350b4143bc3.png)
 <hr>
 
-![PBI_3](https://user-images.githubusercontent.com/31890259/196622344-be4ff074-16f2-4708-9d7f-ec5ab7bc8433.PNG)
+![Konkurs3](https://user-images.githubusercontent.com/31890259/196638482-f3410c25-0468-476e-91a7-ddb857fc3323.png)
 <hr>
 
-![PBI_4](https://user-images.githubusercontent.com/31890259/196622360-79f51e94-3c0a-43f0-b78a-2ce1bb72f78e.PNG)
+![Konkurs4](https://user-images.githubusercontent.com/31890259/196638585-3a0e2be6-7ef9-433f-b004-ba3e609d8190.png)
 <hr>
 
-![PBI_5](https://user-images.githubusercontent.com/31890259/196622380-71266f0a-85cb-458b-bcfc-3d7e54767635.PNG)
+![Konkurs5](https://user-images.githubusercontent.com/31890259/196638689-10e47178-9eb9-4760-ac7d-11c1054fcb6c.png)
+<hr>
+
+![Konkurs6](https://user-images.githubusercontent.com/31890259/196638826-498f3485-0973-46ec-acb9-12edb6a71136.png)
+<hr>
+
+![Konkurs7](https://user-images.githubusercontent.com/31890259/196638850-72964a4c-3137-413d-a163-9213561c7f3e.png)
+<hr>
