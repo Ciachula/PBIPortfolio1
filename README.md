@@ -1,4 +1,4 @@
-# PowerBI - Portfolio Project 1
+# PowerBI - Videpoint competition 
 ## Business Task
 Convert data into interesting report/dashboard. 
 ## Dataset
