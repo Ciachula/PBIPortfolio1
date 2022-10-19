@@ -7,7 +7,7 @@ It presents the import of Poland in 2015 and 2017 to countries like Germany, Spa
 ## Tools
 - Excel
 - PowerBI
-## Dashboard
+## Visualization below
 ![Konkurs1](https://user-images.githubusercontent.com/31890259/196638381-b7d52659-0eec-402b-b86c-54d603f99825.png)
 <hr>
 
