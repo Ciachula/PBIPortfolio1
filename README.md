@@ -3,7 +3,7 @@
 - Convert data into interesting report/dashboard. 
 ## Dataset
 - Data in excel file provided by the organizer (Videopoint).
-- It presents the import of Poland in 2015 and 2017 to countries like Germany, Spain, France.
+- It presents the import of Poland in 2015 and 2017 from countries like Germany, Spain, France.
 ## Tools
 - Excel
 - PowerBI
